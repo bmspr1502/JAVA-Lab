@@ -14,6 +14,7 @@ class Driver{
                 temp[i] = ItemsList[i];
             }
         }
+        
         temp[count-1] = item;
         ItemsList = temp;
         cost+=item.Price;
