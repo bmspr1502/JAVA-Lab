@@ -24,7 +24,7 @@ public class one {
             items[i] = new Item(val);
             i++;
         }
-
+        
         float sum = 0;
 
         for(Item it: items){
